@@ -25,7 +25,9 @@ The calculator performs basic arithmetic operations (addition, subtraction, mult
 
 ## Screenshots
 
+<!--
 > **Tip:** Upload your screenshots to the repository (e.g., in a folder named `screenshots`) and update the image links below.
+-->
 
 ![Calculator Snapshot 1](Assets/Calculator.png)
 
